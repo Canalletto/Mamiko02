@@ -1,0 +1,4 @@
+config/
+mamiko_payload.b64
+.venv/
+__pycache__/
